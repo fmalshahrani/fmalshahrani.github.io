@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Thanks for visisting my website!
+Thanks for visisting my website,, It is still under construction:)
 
 Fatimah's Alshahrani website
 ======
